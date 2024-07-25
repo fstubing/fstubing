@@ -31,7 +31,7 @@ Actualmente, trabajo para una legaltech en el innovador rol de "develawper", una
 
 - **[pruebaM6_poke-api](https://github.com/fstubing/pruebaM6_poke-api):**
 - **[proyecto_ReactJS](https://github.com/fstubing/proyecto_ReactJS):** 
-- **[prueba_certificacion_td](https://github.com/fstubing/prueba_certificacion_td):** Descripción breve del proyecto.
+- **[prueba_certificacion_td](https://github.com/fstubing/prueba_certificacion_td):**
 
 ## Educación
 
