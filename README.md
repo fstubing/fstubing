@@ -7,7 +7,7 @@
 ## Experiencia Profesional
 
 ### Abogado
-Con más de 15 años de experiencia en el campo del derecho, he trabajado en diversas áreas legales, desarrollando una sólida comprensión y habilidades en la práctica jurídica.
+Con más de 13 años de experiencia en el campo del derecho, he trabajado en diversas áreas legales, desarrollando una sólida comprensión y habilidades en la práctica jurídica.
 
 ### Develawper
 Actualmente, trabajo para una legaltech en el innovador rol de "develawper", una posición que fusiona mis conocimientos en derecho y programación. Esta experiencia me ha permitido aplicar soluciones tecnológicas a problemas legales, creando herramientas eficientes y modernas para el ámbito jurídico.
@@ -29,14 +29,14 @@ Actualmente, trabajo para una legaltech en el innovador rol de "develawper", una
 
 ## Proyectos Destacados
 
-- **[Nombre del Proyecto 1](#):** Descripción breve del proyecto.
-- **[Nombre del Proyecto 2](#):** Descripción breve del proyecto.
-- **[Nombre del Proyecto 3](#):** Descripción breve del proyecto.
+- **[pruebaM6_poke-api](https://github.com/fstubing/pruebaM6_poke-api):**
+- **[proyecto_ReactJS](https://github.com/fstubing/proyecto_ReactJS):** 
+- **[prueba_certificacion_td](https://github.com/fstubing/prueba_certificacion_td):** Descripción breve del proyecto.
 
 ## Educación
 
-- **Bootcamp en Desarrollo Web Full Stack:** [Nombre de la Institución], [Año]
-- **Licenciatura en Derecho:** [Nombre de la Universidad], [Año]
+- **Bootcamp en Desarrollo Web Full Stack:** Talento Digital, 2023.
+- **Abogado:** Universidad del Mar, 2010
 
 ## Información de Contacto
 
