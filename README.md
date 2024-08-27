@@ -7,7 +7,7 @@
 ## Experiencia Profesional
 
 ### Abogado
-Con más de 13 años de experiencia en el campo del derecho, he trabajado en diversas áreas legales, desarrollando una sólida comprensión y habilidades en la práctica jurídica.
+En mis años de experiencia en el campo del derecho he trabajado en diversas áreas legales, desarrollando una sólida comprensión y habilidades en la práctica jurídica.
 
 ### Develawper
 Actualmente, trabajo para una legaltech en el innovador rol de "develawper", una posición que fusiona mis conocimientos en derecho y programación. Esta experiencia me ha permitido aplicar soluciones tecnológicas a problemas legales, creando herramientas eficientes y modernas para el ámbito jurídico.
