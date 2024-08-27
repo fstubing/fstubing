@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy Fernando Stubing Alvear, un abogado de profesión con más de 15 años de experiencia, y un apasionado por la tecnología. Mi entusiasmo y gusto por el desarrollo de software me llevaron a realizar un bootcamp en desarrollo web full stack, y desde entonces, he continuado aprendiendo y expandiendo mis conocimientos en el ámbito de las Tecnologías de la Información.
+¡Hola! Soy Fernando Stubing Alvear, un abogado de profesión con más de 13 años de experiencia, y un apasionado por la tecnología. Mi entusiasmo y gusto por el desarrollo de software me llevaron a realizar un bootcamp en desarrollo web full stack, y desde entonces, he continuado aprendiendo y expandiendo mis conocimientos en el ámbito de las Tecnologías de la Información.
 
 ## Experiencia Profesional
 
