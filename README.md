@@ -35,8 +35,8 @@ Actualmente, trabajo para una legaltech en el innovador rol de "develawper", una
 
 ## Educación
 
-- **Bootcamp en Desarrollo Web Full Stack:** Talento Digital, 2023.
-- **Abogado:** Universidad del Mar, 2010
+- **Bootcamp en Desarrollo Web Full Stack:**, 2023.
+- **Abogado:**, 2010
 
 ## Información de Contacto
 
